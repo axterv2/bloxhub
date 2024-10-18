@@ -12,7 +12,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/axterv2/bloxhub/refs/
 ```
 All Tycoons:
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/axterv2/bloxhub/refs/heads/main/release/scripts/JFKETOEJOFJEOTJDOFJD2.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/axterv2/bloxhub/refs/heads/main/scripts/ARRRRRAHHHH.txt"))()
 ```
 # Supported games
 * Ninja Legends
