@@ -4,16 +4,9 @@
 **Bloxhub. - The ScriptHub with steroids. A versatile scripthub containing many scripts for games such as Ninja Legends.**
 
 # Script
-The fun is only 1 step ahed!
+Currently there are some issues with the release:
+The UI Library used is detected in most games! We are currently switching to a new one hoping it is undetected.
 
-Main Loader [Universal & Games]:
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/axterv2/bloxhub/refs/heads/main/release/loader/JROEKTORJFIEJFIDJFIDNIFMDOEKEP.txt"))()
-```
-All Tycoons:
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/axterv2/bloxhub/refs/heads/main/scripts/ARRRRRAHHHH.txt"))()
-```
 # Supported games
 * Ninja Legends
 * Arsenal [Soon]
